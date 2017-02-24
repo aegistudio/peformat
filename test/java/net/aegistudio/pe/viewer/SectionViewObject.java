@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import javax.swing.tree.MutableTreeNode;
+import javax.swing.tree.DefaultMutableTreeNode;
 
 import net.aegistudio.pe.coff.Section;
 import net.aegistudio.uio.ra.RandomAccessible;
@@ -22,8 +22,13 @@ public class SectionViewObject implements ViewObject {
 		return section.asciiName.get();
 	}
 	
-	public void subNode(MutableTreeNode node) {
+	public void subNode(DefaultMutableTreeNode node) {
 		
+	}
+	
+	protected void addView(List<Entry> views, byte[] data) {
+		views.add(new Entry("Section", new SectionView(section)));
+		views.add(new Entry("Hex", new HexDumpView(data, 16, 2)));		
 	}
 
 	@Override
@@ -31,8 +36,7 @@ public class SectionViewObject implements ViewObject {
 		try {
 			List<Entry> views = new ArrayList<>();
 			byte[] data = section.open(ra);
-			views.add(new Entry("Section", new SectionView(section)));
-			views.add(new Entry("Hex", new HexDumpView(data, 16, 2)));
+			addView(views, data);
 			return views;
 		}
 		catch(Exception e) {

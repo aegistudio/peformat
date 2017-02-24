@@ -37,10 +37,17 @@ public class PeViewer {
 			@Override
 			public boolean accept(File arg0) {
 				if(arg0.isDirectory()) return true;
-				if(arg0.getName().endsWith(".exe")) return true;
-				if(arg0.getName().endsWith(".dll")) return true;
-				if(arg0.getName().endsWith(".lib")) return true;
-				return false;
+				String name = arg0.getName();
+				String suffix = name.substring(name.lastIndexOf('.') + 1);
+				suffix = suffix.toLowerCase();
+				switch(suffix) {
+					case "exe":
+					case "dll":
+					case "lib":
+						return true;
+					default:
+						return false;
+				}
 			}
 	
 			@Override
