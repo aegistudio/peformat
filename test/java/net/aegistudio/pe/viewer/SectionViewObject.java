@@ -28,7 +28,7 @@ public class SectionViewObject implements ViewObject {
 	
 	protected void addView(List<Entry> views, byte[] data) {
 		views.add(new Entry("Section", new SectionView(section)));
-		views.add(new Entry("Hex", new HexDumpView(data, 16, 2)));		
+		views.add(new Entry("Hex", new HexDumpView(data, 16, 2)));
 	}
 
 	@Override

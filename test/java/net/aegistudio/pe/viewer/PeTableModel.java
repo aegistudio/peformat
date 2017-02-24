@@ -2,6 +2,7 @@ package net.aegistudio.pe.viewer;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.List;
 
 import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.tree.DefaultTreeModel;
@@ -26,6 +27,14 @@ public class PeTableModel extends DefaultTreeModel {
 			Section section = pe.sections.get(i);
 			SectionViewObject sectionVo = null;
 			switch(section.asciiName.get()) {
+				case ".text":
+					sectionVo = new SectionViewObject(section, ra) {
+						protected void addView(List<Entry> views, byte[] data) {
+							super.addView(views, data);
+							views.add(new Entry("Disassembly", new DisassemblyView(data)));
+						}
+					};
+				break;
 				case ".rsrc":
 					if(pe.coff instanceof Win32Header) {
 						long resourceStdAddress = ((Win32Header)pe.coff)
