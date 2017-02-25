@@ -15,6 +15,7 @@ import javax.swing.table.DefaultTableColumnModel;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableColumn;
 
+import net.aegistudio.pe.LcidTable;
 import net.aegistudio.pe.rsrc.Resource;
 import net.aegistudio.pe.rsrc.WcharString;
 import net.aegistudio.pe.rsrc.WinResourceType;
@@ -38,6 +39,10 @@ public class ResourceDataViewObject implements ViewObject {
 	}
 	
 	public String toString() {
+		if(rcType != null && rcType.equals(WinResourceType.STRING)) {
+			return LcidTable.instance.getLangugage(Integer.parseInt(name))
+				+ " (" + name + ")";
+		}
 		return name;
 	}
 	
@@ -51,42 +56,47 @@ public class ResourceDataViewObject implements ViewObject {
 					new AccessInputStream(ra), "utf8");
 			resource.data(ra, translator, data);
 
-			if(rcType != null && rcType.equals(WinResourceType.STRING)) {
-				InputTranslator innerTranslator = new InputTranslator(
-						new AccessInputStream(new ByteBufferAdapter(data)), "utf8");
-				
-				DefaultTableModel stringTable = new DefaultTableModel();
-				stringTable.setColumnCount(2);
-				try {
-					for(int i = 0; ; i ++) {
-						WcharString string = new WcharString("");
-						string.translate(innerTranslator);
-						Vector<String> rowVector = new Vector<>();
-						rowVector.add(Integer.toString(i));
-						rowVector.add(string.get());
-						stringTable.addRow(rowVector);
-					}
-				}
-				catch(EOFException eof) {
+			if(rcType != null) switch(rcType) {
+				case HTML:
+				//case VERSION:
+				case STRING:
+					InputTranslator innerTranslator = new InputTranslator(
+							new AccessInputStream(new ByteBufferAdapter(data)), "utf8");
 					
-				}
-				stringTable.fireTableDataChanged();
-				
-				DefaultTableColumnModel columnModel = new DefaultTableColumnModel();
-				TableColumn index = new TableColumn(0);
-				index.setHeaderValue("#");
-				index.setPreferredWidth(100);
-				columnModel.addColumn(index);
-				
-				TableColumn stringCol = new TableColumn(1);
-				stringCol.setHeaderValue("String");
-				stringCol.setPreferredWidth(300);
-				columnModel.addColumn(stringCol);
-				
-				JPanel textPanel = new JPanel();
-				textPanel.setLayout(new BorderLayout());
-				textPanel.add(new JScrollPane(new JTable(stringTable, columnModel)));
-				views.add(new Entry("Text", textPanel));
+					DefaultTableModel stringTable = new DefaultTableModel();
+					stringTable.setColumnCount(2);
+					try {
+						for(int i = 0; i < 16; i ++) {
+							WcharString string = new WcharString("");
+							string.translate(innerTranslator);
+							Vector<String> rowVector = new Vector<>();
+							rowVector.add(Integer.toString(i));
+							rowVector.add(string.get());
+							stringTable.addRow(rowVector);
+						}
+					}
+					catch(EOFException eof) {
+						
+					}
+					stringTable.fireTableDataChanged();
+					
+					DefaultTableColumnModel columnModel = new DefaultTableColumnModel();
+					TableColumn index = new TableColumn(0);
+					index.setHeaderValue("#");
+					index.setPreferredWidth(100);
+					columnModel.addColumn(index);
+					
+					TableColumn stringCol = new TableColumn(1);
+					stringCol.setHeaderValue("String");
+					stringCol.setPreferredWidth(300);
+					columnModel.addColumn(stringCol);
+					
+					JPanel textPanel = new JPanel();
+					textPanel.setLayout(new BorderLayout());
+					textPanel.add(new JScrollPane(new JTable(stringTable, columnModel)));
+					views.add(new Entry("Text", textPanel));
+				default:
+					break;
 			}
 			
 			views.add(new Entry("Hex", new HexDumpView(data, 16, 4)));

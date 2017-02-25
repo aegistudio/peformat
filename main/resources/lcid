@@ -1,0 +1,4165 @@
+<!-- https://msdn.microsoft.com/en-us/library/cc233968.aspx -->
+<tbody><tr class="thead" responsive="true"><th scope="col">
+   <p>Language ID</p>
+   </th><th scope="col">
+   <p>Language tag</p>
+   </th></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0001</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ar</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0002</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>bg</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0003</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ca</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0004</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>zh-Hans</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0005</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>cs</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0006</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>da</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0007</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>de</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0008</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>el</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0009</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x000a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x000b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fi</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x000c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fr</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x000d</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>he</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x000e</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>hu</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x000f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>is</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0010</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>it</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0011</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ja</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0012</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ko</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0013</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>nl</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0014</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>no</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0015</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>pl</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0016</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>pt</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0017</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>rm</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0018</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ro</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0019</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ru</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x001a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>bs, hr, or sr</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x001b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sk</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x001c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sq</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x001d</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sv</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x001e</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>th</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x001f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>tr</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0020</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ur</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0021</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>id</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0022</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>uk</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0023</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>be</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0024</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sl</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0025</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>et</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0026</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>lv</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0027</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>lt</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0028</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>tg</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0029</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fa</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x002a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>vi</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x002b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>hy</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x002c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>az</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x002d</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>eu</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x002e</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>dsb or hsb</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x002f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>mk</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0030</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>st</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0031</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ts</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0032</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>tn</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0033</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ve</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0034</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>xh</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0035</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>zu</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0036</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>af</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0037</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ka</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0038</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fo</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0039</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>hi</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x003a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>mt</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x003b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>se</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x003c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ga</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x003d</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>yi, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x003e</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ms</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x003f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>kk</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0040</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ky</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0041</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sw</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0042</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>tk</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0043</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>uz</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0044</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>tt</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0045</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>bn</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0046</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>pa</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0047</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>gu</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0048</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>or</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0049</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ta</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x004a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>te</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x004b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>kn</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x004c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ml</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x004d</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>as</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x004e</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>mr</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x004f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sa</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0050</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>mn</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0051</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>bo</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0052</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>cy</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0053</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>km</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0054</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>lo</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0055</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>my</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0056</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>gl</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0057</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>kok</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0058</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>mni, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0059</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sd</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x005a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>syr</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x005b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>si</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x005c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>chr</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x005d</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>iu</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x005e</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>am</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x005f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>tzm</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0060</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ks</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0061</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ne</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0062</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fy</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0063</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ps</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0064</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fil</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0065</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>dv</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0066</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>bin, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0067</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ff</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0068</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ha</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0069</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ibb, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x006a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>yo</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x006b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>quz</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x006c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>nso</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x006d</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ba</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x006e</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>lb</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x006f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>kl</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0070</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ig</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0071</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>kr, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0072</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>om</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0073</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ti</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0074</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>gn</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0075</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>haw</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0076</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>la, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0077</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>so, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0078</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ii</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0079</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>pap, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x007a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>arn</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x007b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>Neither defined nor reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x007c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>moh</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x007d</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>Neither defined nor reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x007e</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>br</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x007f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>Reserved for invariant locale behavior</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0080</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ug</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0081</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>mi</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0082</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>oc</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0083</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>co</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0084</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>gsw</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0085</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sah</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0086</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>qut</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0087</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>rw</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0088</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>wo</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0089</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>Neither defined nor reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x008a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>Neither defined nor reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x008b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>Neither defined nor reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x008c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>prs</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x008d</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>Neither defined nor reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x008e</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>Neither defined nor reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x008f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>Neither defined nor reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0090</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>Neither defined nor reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0091</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>gd</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0092</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ku</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0093</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>quc, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0401</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ar-SA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0402</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>bg-BG</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0403</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ca-ES</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0404</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>zh-TW</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0405</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>cs-CZ</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0406</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>da-DK</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0407</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>de-DE</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0408</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>el-GR</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0409</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-US</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x040a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-ES_tradnl</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x040b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fi-FI</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x040c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fr-FR</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x040d</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>he-IL</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x040e</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>hu-HU</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x040f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>is-IS</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0410</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>it-IT</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0411</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ja-JP</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0412</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ko-KR</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0413</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>nl-NL</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0414</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>nb-NO</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0415</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>pl-PL</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0416</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>pt-BR</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0417</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>rm-CH</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0418</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ro-RO</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0419</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ru-RU</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x041a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>hr-HR</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x041b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sk-SK</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x041c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sq-AL</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x041d</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sv-SE</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x041e</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>th-TH</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x041f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>tr-TR</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0420</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ur-PK</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0421</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>id-ID</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0422</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>uk-UA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0423</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>be-BY</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0424</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sl-SI</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0425</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>et-EE</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0426</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>lv-LV</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0427</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>lt-LT</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0428</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>tg-Cyrl-TJ</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0429</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fa-IR</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x042a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>vi-VN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x042b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>hy-AM</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x042c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>az-Latn-AZ</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x042d</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>eu-ES</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x042e</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>hsb-DE</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x042f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>mk-MK</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0430</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>st-ZA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0431</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ts-ZA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0432</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>tn-ZA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0433</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ve-ZA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0434</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>xh-ZA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0435</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>zu-ZA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0436</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>af-ZA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0437</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ka-GE</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0438</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fo-FO</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0439</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>hi-IN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x043a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>mt-MT</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x043b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>se-NO</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x043d</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>yi-Hebr, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x043e</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ms-MY</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x043f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>kk-KZ</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0440</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ky-KG</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0441</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sw-KE</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0442</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>tk-TM</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0443</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>uz-Latn-UZ</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0444</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>tt-RU</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0445</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>bn-IN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0446</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>pa-IN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0447</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>gu-IN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0448</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>or-IN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0449</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ta-IN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x044a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>te-IN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x044b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>kn-IN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x044c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ml-IN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x044d</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>as-IN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x044e</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>mr-IN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x044f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sa-IN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0450</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>mn-MN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0451</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>bo-CN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0452</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>cy-GB</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0453</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>km-KH</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0454</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>lo-LA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0455</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>my-MM</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0456</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>gl-ES</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0457</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>kok-IN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0458</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>mni-IN, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0459</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sd-Deva-IN, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x045a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>syr-SY</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x045b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>si-LK</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x045c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>chr-Cher-US</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x045d</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>iu-Cans-CA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x045e</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>am-ET</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x045f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>tzm-Arab-MA, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0460</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ks-Arab</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0461</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ne-NP</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0462</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fy-NL</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0463</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ps-AF</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0464</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fil-PH</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0465</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>dv-MV</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0466</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>bin-NG, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0467</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fuv-NG, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0468</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ha-Latn-NG</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0469</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ibb-NG, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x046a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>yo-NG</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x046b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>quz-BO</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x046c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>nso-ZA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x046d</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ba-RU</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x046e</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>lb-LU</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x046f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>kl-GL</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0470</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ig-NG</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0471</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>kr-NG, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0472</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>om-ET</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0473</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ti-ET</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0474</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>gn-PY</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0475</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>haw-US</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0476</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>la-Latn, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0477</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>so-SO</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0478</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ii-CN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0479</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>pap-029, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x047a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>arn-CL</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x047c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>moh-CA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x047e</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>br-FR</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0480</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ug-CN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0481</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>mi-NZ</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0482</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>oc-FR</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0483</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>co-FR</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0484</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>gsw-FR</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0485</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sah-RU</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0486</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>qut-GT</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0487</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>rw-RW</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0488</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>wo-SN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x048c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>prs-AF</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x048d</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>plt-MG, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x048e</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>zh-yue-HK, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x048f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>tdd-Tale-CN, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0490</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>khb-Talu-CN, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0491</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>gd-GB</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0492</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ku-Arab-IQ</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0493</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>quc-CO, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0501</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>qps-ploc</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x05fe</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>qps-ploca</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0801</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ar-IQ</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0803</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ca-ES-valencia</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0804</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>zh-CN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0807</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>de-CH</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0809</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-GB</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x080a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-MX</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x080c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fr-BE</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0810</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>it-CH</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0811</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ja-Ploc-JP, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0813</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>nl-BE</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0814</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>nn-NO</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0816</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>pt-PT</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0818</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ro-MD</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0819</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ru-MD</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x081a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sr-Latn-CS</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x081d</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sv-FI</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0820</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ur-IN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0827</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>Neither defined nor reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x082c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>az-Cyrl-AZ</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x082e</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>dsb-DE</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0832</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>tn-BW</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x083b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>se-SE</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x083c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ga-IE</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x083e</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ms-BN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0843</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>uz-Cyrl-UZ</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0845</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>bn-BD</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0846</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>pa-Arab-PK</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0849</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ta-LK</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0850</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>mn-Mong-CN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0851</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>bo-BT, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0859</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sd-Arab-PK</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x085d</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>iu-Latn-CA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x085f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>tzm-Latn-DZ</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0860</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ks-Deva, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0861</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ne-IN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0867</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ff-Latn-SN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x086b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>quz-EC</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0873</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ti-ER</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x09ff</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>qps-plocm</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0c01</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ar-EG</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0c04</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>zh-HK</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0c07</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>de-AT</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0c09</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-AU</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0c0a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-ES</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0c0c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fr-CA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0c1a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sr-Cyrl-CS</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0c3b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>se-FI</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0c50</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>mn-Mong-MN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0c51</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>dz-BT</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0c5f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>tmz-MA, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x0c6b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>quz-PE</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x1001</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ar-LY</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x1004</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>zh-SG</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x1007</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>de-LU</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x1009</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-CA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x100a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-GT</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x100c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fr-CH</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x101a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>hr-BA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x103b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>smj-NO</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x105f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>tzm-Tfng-MA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x1401</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ar-DZ</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x1404</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>zh-MO</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x1407</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>de-LI</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x1409</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-NZ</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x140a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-CR</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x140c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fr-LU</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x141a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>bs-Latn-BA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x143b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>smj-SE</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x1801</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ar-MA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x1809</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-IE</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x180a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-PA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x180c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fr-MC</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x181a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sr-Latn-BA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x183b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sma-NO</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x1c01</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ar-TN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x1c09</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-ZA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x1c0a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-DO</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x1c0c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>Neither defined nor reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x1c1a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sr-Cyrl-BA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x1c3b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sma-SE</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x2001</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ar-OM</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x2008</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>Neither defined nor reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x2009</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-JM</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x200a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-VE</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x200c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fr-RE</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x201a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>bs-Cyrl-BA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x203b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sms-FI</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x2401</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ar-YE</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x2409</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-029</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x240a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-CO</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x240c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fr-CD</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x241a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sr-Latn-RS</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x243b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>smn-FI</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x2801</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ar-SY</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x2809</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-BZ</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x280a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-PE</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x280c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fr-SN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x281a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sr-Cyrl-RS</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x2c01</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ar-JO</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x2c09</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-TT</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x2c0a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-AR</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x2c0c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fr-CM</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x2c1a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sr-Latn-ME</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x3001</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ar-LB</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x3009</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-ZW</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x300a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-EC</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x300c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fr-CI</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x301a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sr-Cyrl-ME</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x3401</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ar-KW</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x3409</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-PH</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x340a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-CL</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x340c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fr-ML</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x3801</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ar-AE</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x3809</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-ID, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x380a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-UY</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x380c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fr-MA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x3c01</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ar-BH</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x3c09</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-HK</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x3c0a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-PY</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x3c0c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>fr-HT</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x4001</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ar-QA</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x4009</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-IN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x400a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-BO</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x4401</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ar-Ploc-SA, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x4409</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-MY</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x440a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-SV</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x4801</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ar-145, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x4809</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-SG</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x480a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-HN</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x4c09</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-AE, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x4c0a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-NI</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x5009</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-BH, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x500a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-PR</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x5409</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-EG, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x540a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-US</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x5809</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-JO, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x580a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-419</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x5c09</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-KW, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x5c0a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>es-CU</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x6009</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-TR, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x6409</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>en-YE, reserved</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x641a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>bs-Cyrl</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x681a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>bs-Latn</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x6c1a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sr-Cyrl</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x701a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sr-Latn</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x703b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>smn</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x742c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>az-Cyrl</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x743b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sms</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x7804</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>zh</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x7814</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>nn</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x781a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>bs</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x782c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>az-Latn</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x783b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sma</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x7843</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>uz-Cyrl</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x7850</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>mn-Cyrl</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x785d</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>iu-Cans</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x785f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>tzm-Tfng</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x7c04</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>zh-Hant</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x7c14</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>nb</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x7c1a</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sr</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x7c28</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>tg-Cyrl</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x7c2e</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>dsb</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x7c3b</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>smj</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x7c43</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>uz-Latn</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x7c46</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>pa-Arab</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x7c50</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>mn-Mong</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x7c59</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>sd-Arab</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x7c5c</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>chr-Cher</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x7c5d</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>iu-Latn</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x7c5f</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>tzm-Latn</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x7c67</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ff-Latn</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x7c68</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ha-Latn</p>
+  </td></tr>
+ <tr><td data-th="
+   Language ID
+   ">
+  <p>0x7c92</p>
+  </td><td data-th="
+   Language tag
+   ">
+  <p>ku-Arab</p>
+  </td></tr>
+</tbody>
